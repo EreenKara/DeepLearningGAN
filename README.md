@@ -38,7 +38,7 @@ I didn't train the model. Conditional GAN wasn't my purpose.
 
 # Pix2Pix GAN (Finally My Purpose)
 This Pix2Pix GAN has paried images. One pair is what we gives it and other pair is what it must create. Of course it is when model finally trained. In first, we load all paired images to model to trained it as "Dude look at those image when i give you something like that you have to create something like that, otherwise I will punish you with changing all of your parameter weights". Yeah, it is what it is.  
-## I have find a model which implemented using PIX2PIX paper, and explain it.
+## I found a youtube video which implement PIX2PIX GAN using PIX2PIX paper and explain what is going on in paper.
 ### The code was trained with satellite images but I wanted to make something interested so first I tried to do model with Satellite images correctly and tried my real wish.
 #### DATASET 
 ![image](https://github.com/EreenKara/DeepLearningGAN/assets/103642801/3fd46ab3-5bba-493b-9d5f-dde945bc90a5)
